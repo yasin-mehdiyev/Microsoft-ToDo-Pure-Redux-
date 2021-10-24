@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "fdfb21f1-0166-46e7-a034-8c80ded39f63",
+      "title": "Biology",
+      "completed": false
+    },
+    {
+      "id": "9a648c28-5858-4d15-9672-2b67ab0ff3a3",
+      "title": "Ecology",
+      "completed": true
+    }
+  ]
+}
